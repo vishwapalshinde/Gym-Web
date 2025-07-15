@@ -1,3 +1,3 @@
 ﻿# FitnessPlanetClub
 
-live demo ----- https://kamleshjat7782.github.io/FitnessPlanetClub/
+live demo ----- https://VishwapalShinde.github.io/FitnessPlanetClub/
